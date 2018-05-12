@@ -34,3 +34,4 @@ Code Meaning Example
 %x Locale’s appropriate date representation.	09/30/13  
 %X Locale’s appropriate time representation.	07:06:05  
 %% A literal '%' character.	%  
+
